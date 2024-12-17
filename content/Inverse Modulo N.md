@@ -1,1 +1,0 @@
-Imagine merging the ideas of [[Inverse Functions]] and 

@@ -1,2 +1,0 @@
-## What:
-One of the cornerstones of [[SSL - TLS]] was that no-one could tell the contents of the message, but they could know who was talking to who, how long they communicated etc. What if we wanted a form of communication that avoided all of that (as well encrypting the message)? 

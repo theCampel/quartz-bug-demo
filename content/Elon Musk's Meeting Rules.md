@@ -1,1 +1,0 @@
-![[GPtnlQNacAATL0N.png]]
