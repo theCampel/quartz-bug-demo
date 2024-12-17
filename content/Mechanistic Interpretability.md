@@ -1,1 +1,0 @@
-Science naturally works by inspecting interesting things. But we have to build (or find) those things in the first place. 
